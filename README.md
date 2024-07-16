@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-- 🌱 I’m currently learning **aspects of Data Science**
+🌱 I’m currently learning aspects of Data Science
 
-- 👀 I’m interested in **Data Science**
+👀 I’m interested in Data Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
